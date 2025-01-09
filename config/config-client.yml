@@ -1,2 +1,4 @@
 example:
   property: "Configuration for config-client"
+server:
+  port: "confclientport"
