@@ -1,2 +1,4 @@
 example:
   property: "Default configuration"
+server:
+  port: 123456
