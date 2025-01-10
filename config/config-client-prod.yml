@@ -1,4 +1,4 @@
 example:
-  property: "Configuration for config-client: DEFAULT"
+  property: "Configuration for config-client: PROD"
 server:
   port: "8083"
