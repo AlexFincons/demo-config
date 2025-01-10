@@ -1,0 +1,4 @@
+example:
+  property: "Configuration for config-client: DEFAULT"
+server:
+  port: "8083"
